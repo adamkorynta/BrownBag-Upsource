@@ -1,4 +1,4 @@
-package com.rma.brownbag.upsource;
+package com.rma.brownbag;
 
 import java.util.logging.Logger;
 
